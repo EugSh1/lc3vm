@@ -9,6 +9,7 @@ build/
 *.ko
 *.obj
 *.elf
+!example_programs/*.obj
 
 # Linker output
 *.ilk
